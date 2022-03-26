@@ -1,7 +1,7 @@
 ### Hi there, I'm Eder 👋
 
-- 🔭 I’m currently working on [The OpenROAD Project](https://github.com/The-OpenROAD-Project)
-- 🌱 I’m currently learning Python for Data Science
+- 🔭 I’m currently working at Coinbase as Software Engineer
+- 🌱 I’m currently learning GoLang
 - 😄 Pronouns: He/Him
 
 **Languages and Tools:**  
