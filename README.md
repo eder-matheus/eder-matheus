@@ -1,6 +1,6 @@
 ### Hi there, I'm Eder 👋
 
-- 🔭 I’m currently working at Coinbase as Software Engineer
+- 🔭 I’m currently working at The OpenROA Project as Software Engineer
 - 🌱 I’m currently learning GoLang
 - 😄 Pronouns: He/Him
 
