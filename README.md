@@ -1,7 +1,7 @@
 ### Hi there, I'm Eder 👋
 
-- 🔭 I’m currently working at The OpenROA Project as Software Engineer
-- 🌱 I’m currently learning GoLang
+- 🔭 I’m currently working at The OpenROAD Project as Software Engineer
+- 🌱 I’m currently learning GoLang and Ruby
 - 😄 Pronouns: He/Him
 
 **Languages and Tools:**  
